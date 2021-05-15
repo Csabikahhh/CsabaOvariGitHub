@@ -41,5 +41,6 @@
 </a>
   </p>
 
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=csabikahhh&repo=CsabaOvariGitHub)
  
 
