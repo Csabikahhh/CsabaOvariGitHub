@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on business websites.
 - 🌱 I’m currently learning Vue/Laravel/PhP.
 - 👯 I’m looking to collaborate on Blockchain developer.
-- 💬 Ask me about any question
+- 💬 Ask me about any question.
 - 📫 How to reach me: csabikahhh@gmail.com or https://csabaovari.hu .
 - ⚡ Fun fact: I'm a gamer and apple lover.
 - 📚 **I’m currently using, practicing and learning with:** <br />
