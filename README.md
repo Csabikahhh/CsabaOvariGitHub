@@ -40,7 +40,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csabikahhh&layout=compact&hide=html" />
 </a>
   </p>
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=csabikahhh&repo=CsabaOvariGitHub)
  
 
