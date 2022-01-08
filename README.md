@@ -43,12 +43,12 @@
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="56"  alt="java icon"/>   
 <img src="https://sdtimes.com/wp-content/uploads/2018/01/bootstrap-stack-490x412.png" alt="bootstrap icon" width="54"/> &nbsp;   &nbsp;  
 <img src="https://msysgit.github.io/img/gwindows_logo.png" alt="git icon" width="48"/> &nbsp;   &nbsp;   
-<img src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png" width="56" alt="ps icon" /> 
-<img src="https://img.icons8.com/color/48/000000/windows-10.png" width="56" alt="win icon" /> 
-<img src="https://img.icons8.com/color/48/000000/mac-os-logo.png" width="56" alt="mac icon" /> 
+<img src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png" width="56" alt="ps icon" />  
 <img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira icon" width="48"/> &nbsp; &nbsp;
 <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-seo-online-marketing-wanicon-lineal-color-wanicon.png" alt="SEO icon" width="48"/> &nbsp; &nbsp;
 <img src="https://img.icons8.com/color/48/000000/microsoft.png" alt="Office" width="48"/> &nbsp; &nbsp;
+<img src="https://img.icons8.com/color/48/000000/windows-10.png" width="56" alt="win icon" /> 
+<img src="https://img.icons8.com/color/48/000000/mac-os-logo.png" width="56" alt="mac icon" />
 </p>
 
 <br/>
