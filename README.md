@@ -26,7 +26,7 @@
 <p align="center">
 
 <img src="https://img.icons8.com/officel/48/000000/react.png" alt="react icon" width="48"/> &nbsp; &nbsp;
-<img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-html-responsive-web-design-justicon-lineal-color-justicon.pngalt="html icon" width="48"/> 
+<img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-html-responsive-web-design-justicon-lineal-color-justicon.png" alt="html icon" width="48"/> 
 &nbsp; &nbsp;
 <img src="https://img.icons8.com/nolan/64/php.png" alt="php icon" width="48"/> &nbsp;   &nbsp;   
 <img src="https://nodejs.org/static/images/logo-hexagon.png" alt="node.js icon" width="45"/> &nbsp;   &nbsp;   
