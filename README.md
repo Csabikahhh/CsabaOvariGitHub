@@ -27,7 +27,7 @@
 <img src="https://dl2.macupdate.com/images/icons256/54025.png?d=1488487262" alt="vsc icon" width="48"/> &nbsp; 
 <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-html-responsive-web-design-justicon-lineal-color-justicon.png" alt="HTML icon" width="48"/> &nbsp; &nbsp;
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" alt="sass icon" width="48"/> &nbsp;   &nbsp;   
-<img src="https://image.flaticon.com/icons/png/512/732/732190.png" alt="css3 icon" width="48"/> &nbsp;   &nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css3 icon" width="48"/> &nbsp;   &nbsp;
 <img src="https://www.icone-png.com/png/52/52497.png" alt="js icon" width="45"/> &nbsp;   &nbsp; 
 <img src="https://img.icons8.com/color/48/000000/vue-js.png" width="56" /> &nbsp;   &nbsp; 
 <img src="https://img.icons8.com/officel/48/000000/react.png" alt="react icon" width="48"/> &nbsp; &nbsp;
