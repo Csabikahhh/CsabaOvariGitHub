@@ -1,4 +1,11 @@
-## Hello there 👋
+<div id="header" align="center">
+  <h2> Hi 👋 I'm Csaba Ovari.</h2>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/csabaovari/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+</div>
 <p align="center">
 <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="33"  /> 
 &nbsp;   &nbsp; 
@@ -51,18 +58,6 @@
 <img src="https://img.icons8.com/color/48/000000/mac-os-logo.png" width="56" alt="mac icon" />
 </p>
 
-<br/>
 
-<p align="center">
- <a href="https://github.com/anuraghazra/github-readme-stats" target="blank" onclick="return ! window.open(https://github.com/anuraghazra/github-readme-stats);">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=csabikahhh&count_private=true&show_icons=true&theme=calm&hide=stars" />
- </a>
-</p>
-  
- <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats" target="blank" onclick="return ! window.open(https://github.com/anuraghazra/github-readme-stats);">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csabikahhh&layout=compact&hide=html" />
-</a>
-  </p>
  
 
