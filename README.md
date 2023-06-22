@@ -21,7 +21,7 @@
 
 
 - 🤠 I'm Csaba, a front-end developer from the EU.
-- 🏁 Goal: to be a full-stack developer or Expert front-end develeoper.
+- 🏁 Goal: to be a full-stack developer && Expert front-end develeoper.
 - 🔭 I’m currently working on business websites.
 - 🌱 I’m currently learning Vue/React/Ts and ES6.
 - 👯 I’m looking to collaborate on Blockchain developer.
